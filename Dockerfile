@@ -5,7 +5,7 @@ MAINTAINER Giovanni Tufo <giovanni@gtconsulting.eu>
 ENV ANDROID_COMPILE_SDK 28
 ENV ANDROID_BUILD_TOOLS 28.0.3
 ENV ANDROID_SDK_TOOLS 4333796
-ENV FLUTTER_VERSION https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.9.1+hotfix.4-stable.tar.xz
+ENV FLUTTER_VERSION https://storage.googleapis.com/flutter_infra/releases/stable/linux/flutter_linux_v1.12.13+hotfix.7-stable.tar.xz
 ENV PATH "$PATH:/opt/android-sdk-linux/platform-tools/:/opt/flutter/bin"
 ENV ANDROID_HOME "/opt/android-sdk-linux"
 
